@@ -1,0 +1,39 @@
+# Text editors
+*.idea
+*.sublime-project
+*.sublime-workspace
+*.orig
+*.bak
+
+# System
+.DS_Store
+Thumbs.db
+.bash_logout
+.bashrc
+.profile
+web.config
+.ssh
+
+# Text files
+sitemap*.xml
+*.xlsx
+*.xls
+*.csv
+*.txt
+*.log
+
+# Archives
+*.tar.gz*
+*.tar
+*.zip
+*.7z
+*.cab
+*.exe
+*.rar
+*.pak
+*.zipx
+
+# Some tools
+/vendor
+/composer.phar
+
