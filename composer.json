@@ -1,5 +1,5 @@
 {
-  "name": "aeroidea/aeroidea.hlelemprop",
+  "name": "aeroidea/aero.hlelemprop",
   "description": "Aeroidea`s module for Bitrix with custom field type - binding to the highload block element",
   "type": "bitrix-module",
   "keywords": [
