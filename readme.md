@@ -1,8 +1,8 @@
 # aero.hlelemprop
 # Установка
-###c помощью composer
+### c помощью composer
 `composer require aeroidea/aeroidea.hlelemprop`
-###в ручную
+### в ручную
 1. Скачиваем архив с модулем
 2. распаковываем в `www/local/modules`
 
@@ -10,4 +10,4 @@
  
 нужно зайти в `Marketplace -> Установленные решения` и установить модуль
 
-![установленные решения](/docs/img/1.png)![установить модуль](img/composerinstall/image_2.png)
+![установленные решения](/docs/img/1.png)![установить модуль](/docs/img/2.png))
